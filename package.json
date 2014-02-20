@@ -1,14 +1,10 @@
 {
-    "name": "bezier",
-    "version": "0.1.0",
-    "author": "Charlotte Gore <conspiracygore@gmail.com>",
-    "devDependencies": {
-        "mocha": "*",
-        "chai": "*",
-        "component": "*",
-        "mocha-phantomjs": "*"
-    },
-    "scripts": {
-        "test": "make test"
-    }
+  "name": "charlottegore-bezier",
+  "description": "Bezier Curve functions",
+  "version": "1.0.1",
+  "keywords": [],
+  "dependencies": {
+    "charlottegore-binary-search": "git://github.com/npmcomponent/charlottegore-binary-search.git"
+  },
+  "license": "MIT"
 }
